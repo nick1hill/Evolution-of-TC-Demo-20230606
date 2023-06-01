@@ -1,2 +1,2 @@
-# Evolution-of-TC-Demo-20230606
- Demo of standardWorkFlow
+# 20230529Jyvaskyla
+ Content for Day One of Jyvaskyla couse
